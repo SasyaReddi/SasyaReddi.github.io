@@ -105,7 +105,7 @@ figure {
   }
 }
 #fh5co-header nav ul li a:hover, #fh5co-header nav ul li a:active, #fh5co-header nav ul li a:focus {
-  color: #000 !important;
+  color: #fff !important;
   text-decoration: none;
   outline: none;
 }
@@ -144,7 +144,7 @@ figure {
   transition: 0.3s;
 }
 .fh5co-projects-feed .fh5co-project > a:hover h2, .fh5co-projects-feed .fh5co-project > a:active h2, .fh5co-projects-feed .fh5co-project > a:focus h2 {
-  color: #000;
+  color: #fff;
 }
 
 .masonry,
